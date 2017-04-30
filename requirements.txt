@@ -1,0 +1,2 @@
+#1  PyPubSub for Publish/Subscriber System
+      Install with: "pip install pypubsub"
